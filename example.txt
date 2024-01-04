@@ -2,3 +2,4 @@ Initial line in the file.
 Second line in the file.
 Third line added.
 Fourth line now.
+Finally, the fifth line.
